@@ -7,6 +7,14 @@ Virtualization has a multitude of benefits. It reduces the operating costs of a 
 ## Python
 Pseudo-code is basically a description of what a code or algorithm must do. Regarding python, this term allows the user to focus on the completed code or program rather than working out what goes where. Compiled language is when programming language is altered to match the language that is spoken by a user's computer (binary). Python uses the opposite of this, interpreted language, which allows the user to run the programming language directly into the source code without having to compilate.  
 ## Career Exploration
-
+Looking through the website I think I was most interested by the computer and information systems manager positions as that is somewhat relevant to my field. The job of this position is to ensure their organization's computer needs while maintaining hardware and software. They also look for ways to upgrade their computer systems.
 #### College Central
 I found many available internships and co-ops that are available in a 25-mile radius around my location. Companies offered positions regarding IT, marketing, finance, and graphic design
+#### Certifications
+CompTIA provides IT professionals with analytical skills such as: identifying vulnerabilities and threats to an organization, the configuration and use of threat-detecting tools, and the ability to protect applications and systems within an organization. Fields that use this range from cybersecurity to vulnerability analysts.
+#### Certificates
+On the website, I took a computer networking quiz to see if there are any opportunities that would fit my choice of work. Cybersecurity appeared as one of the results, and I'd say I'm semi-interested. The program would allow for me to recognize specific network threats and protect hardware, software, and data from attacks.
+#### Co-ops/Internships
+In order to be "co-op ready" one must participate in the co-op orientation process through tri-c. One must then upload their resume for final revisions and approval by a career coach through CCN. After, you should work with an Employer Relations Specialist to apply and interview for approved co-op placements. Co-ops are beneficial as they give you an actual look at something one might be interested in and provides them with experience, which is much needed this day in age.
+#### Industry Associations/Student Organizations
+IEEE is the world's largest professional association for the advancement of technology. With over 400,000 members, IEEE aims to advocate technological advancement through publications, conferences, professional and educational activities. Members include engineers, scientists, and technical professionals. Membership would be beneficial as this program would allow for collaboration and an interesting way to impact the technological world.
